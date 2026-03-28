@@ -2,7 +2,7 @@
 
 **Part A:** `GET /search` over `part-a-search/backend/app/data.json` + React UI. 
 
-**Part B:** PostgreSQL (`suppliers`, `inventory`) + FastAPI CRUD and a grouped value report.
+**Part B:** PostgreSQL (`suppliers`, `inventory`) + FastAPI grouped value report.
 
 ## Setup
 
