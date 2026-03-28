@@ -29,6 +29,8 @@ Docs: `http://127.0.0.1:8000/docs`. Example: `http://127.0.0.1:8000/search?q=lap
 cd part-a-search/frontend
 npm install && npm run dev
 ```
+<img width="1901" height="965" alt="image" src="https://github.com/user-attachments/assets/4c8a60cd-059c-41b2-acc4-2384343523f3" />
+
 
 Open the URL Vite prints (e.g. `http://localhost:5173`).
 
