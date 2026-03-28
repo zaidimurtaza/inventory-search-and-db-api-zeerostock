@@ -1,0 +1,17 @@
+[
+    { "id": 1, "name": "Laptop Pro 15", "category": "Electronics", "price": 75000 },
+    { "id": 2, "name": "Wireless Mouse", "category": "Electronics", "price": 1200 },
+    { "id": 3, "name": "Office Chair", "category": "Furniture", "price": 4500 },
+    { "id": 4, "name": "Gaming Keyboard", "category": "Electronics", "price": 3200 },
+    { "id": 5, "name": "Wooden Table", "category": "Furniture", "price": 7000 },
+    { "id": 6, "name": "Bluetooth Speaker", "category": "Electronics", "price": 2500 },
+    { "id": 7, "name": "Notebook Pack", "category": "Stationery", "price": 300 },
+    { "id": 8, "name": "Ball Pen Set", "category": "Stationery", "price": 150 },
+    { "id": 9, "name": "Smartphone X", "category": "Electronics", "price": 30000 },
+    { "id": 10, "name": "LED Monitor 24 inch", "category": "Electronics", "price": 12000 },
+    { "id": 11, "name": "Bookshelf", "category": "Furniture", "price": 5500 },
+    { "id": 12, "name": "Desk Lamp", "category": "Furniture", "price": 800 },
+    { "id": 13, "name": "Tablet Lite", "category": "Electronics", "price": 18000 },
+    { "id": 14, "name": "Printer Inkjet", "category": "Electronics", "price": 6500 },
+    { "id": 15, "name": "Whiteboard Marker", "category": "Stationery", "price": 200 }
+  ]
